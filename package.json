@@ -1,0 +1,14 @@
+{
+  "name": "api_node",
+  "version": "1.0.0",
+  "description": "Proyecto de API RESTfull con node.js y express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Domínguez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
